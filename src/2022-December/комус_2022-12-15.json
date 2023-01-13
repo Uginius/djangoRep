@@ -1,0 +1,621 @@
+{
+    "комус-007": {
+        "1": {
+            "rosel_id": true,
+            "shop_id": 1624876,
+            "shop_name": "Изолента Рекорд ПВХ 15 мм x 10 м белая",
+            "shop_order": 1,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-rekord-pvkh-15-mm-x-10-m-belaya/p/1624876/?from=block-123-1&qid=5456161394-0-1"
+        },
+        "2": {
+            "rosel_id": true,
+            "shop_id": 1624881,
+            "shop_name": "Изолента Рекорд ПВХ 15 мм x 10 м синяя",
+            "shop_order": 2,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-rekord-pvkh-15-mm-x-10-m-sinyaya/p/1624881/?from=block-123-2&qid=5456161394-0-2"
+        },
+        "3": {
+            "rosel_id": true,
+            "shop_id": 762649,
+            "shop_name": "Изолента EG ПВХ 19 мм x 20 м синяя",
+            "shop_order": 3,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-eg-pvkh-19-mm-x-20-m-sinyaya/p/762649/?from=block-123-3&qid=5456161394-0-3"
+        },
+        "4": {
+            "rosel_id": true,
+            "shop_id": 1478880,
+            "shop_name": "Изолента Safeline ПВХ 19 мм x 20 м черная",
+            "shop_order": 4,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-safeline-pvkh-19-mm-x-20-m-chernaya/p/1478880/?from=block-123-4&qid=5456161394-0-4"
+        },
+        "5": {
+            "rosel_id": true,
+            "shop_id": 1624878,
+            "shop_name": "Изолента Рекорд ПВХ 15 мм x 10 м желтая",
+            "shop_order": 5,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-rekord-pvkh-15-mm-x-10-m-zheltaya/p/1624878/?from=block-123-5&qid=5456161394-0-5"
+        },
+        "6": {
+            "rosel_id": true,
+            "shop_id": 1624882,
+            "shop_name": "Изолента Рекорд ПВХ 15 мм x 10 м черная",
+            "shop_order": 6,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-rekord-pvkh-15-mm-x-10-m-chernaya/p/1624882/?from=block-123-6&qid=5456161394-0-6"
+        },
+        "7": {
+            "rosel_id": true,
+            "shop_id": 1624880,
+            "shop_name": "Изолента Рекорд ПВХ 15 мм x 10 м красная",
+            "shop_order": 7,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-rekord-pvkh-15-mm-x-10-m-krasnaya/p/1624880/?from=block-123-7&qid=5456161394-0-7"
+        },
+        "8": {
+            "rosel_id": true,
+            "shop_id": 1624879,
+            "shop_name": "Изолента Рекорд ПВХ 15 мм x 10 м зеленая",
+            "shop_order": 8,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-rekord-pvkh-15-mm-x-10-m-zelenaya/p/1624879/?from=block-123-8&qid=5456161394-0-8"
+        },
+        "9": {
+            "rosel_id": true,
+            "shop_id": 762648,
+            "shop_name": "Изолента EG ПВХ 19 мм x 20 м черная",
+            "shop_order": 9,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-eg-pvkh-19-mm-x-20-m-chernaya/p/762648/?from=block-123-9&qid=5456161394-0-9"
+        },
+        "10": {
+            "rosel_id": true,
+            "shop_id": 762650,
+            "shop_name": "Изолента EG ПВХ 19 мм x 20 м белая",
+            "shop_order": 10,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-eg-pvkh-19-mm-x-20-m-belaya/p/762650/?from=block-123-10&qid=5456161394-0-10"
+        },
+        "11": {
+            "rosel_id": true,
+            "shop_id": 762663,
+            "shop_name": "Изолента EG ПВХ 19 мм x 20 м зеленая",
+            "shop_order": 11,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-eg-pvkh-19-mm-x-20-m-zelenaya/p/762663/?from=block-123-11&qid=5456161394-0-11"
+        },
+        "12": {
+            "rosel_id": true,
+            "shop_id": 976243,
+            "shop_name": "Изолента Unibob ПВХ черная 19 мм х 20 м черная",
+            "shop_order": 12,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-unibob-pvkh-chernaya-19-mm-kh-20-m-chernaya/p/976243/?from=block-123-12&qid=5456161394-0-12"
+        },
+        "13": {
+            "rosel_id": true,
+            "shop_id": 762662,
+            "shop_name": "Изолента EG ПВХ 19 мм x 20 м желтая",
+            "shop_order": 13,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-eg-pvkh-19-mm-x-20-m-zheltaya/p/762662/?from=block-123-13&qid=5456161394-0-13"
+        },
+        "14": {
+            "rosel_id": true,
+            "shop_id": 976248,
+            "shop_name": "Изолента Unibob ПВХ черная 15 мм х 20 м черная",
+            "shop_order": 14,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-unibob-pvkh-chernaya-15-mm-kh-20-m-chernaya/p/976248/?from=block-123-14&qid=5456161394-0-14"
+        },
+        "15": {
+            "rosel_id": true,
+            "shop_id": 976247,
+            "shop_name": "Изолента Unibob ПВХ красная 19 мм х 20 м красная",
+            "shop_order": 15,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-unibob-pvkh-krasnaya-19-mm-kh-20-m-krasnaya/p/976247/?from=block-123-15&qid=5456161394-0-15"
+        },
+        "16": {
+            "rosel_id": true,
+            "shop_id": 1507274,
+            "shop_name": "Изолента SafeLine Master ПВХ 15 мм x 5 м (комплект из 7 цветов)",
+            "shop_order": 16,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-safeline-master-pvkh-15-mm-x-5-m-komplekt-iz-7-tsvetov-/p/1507274/?from=block-123-16&qid=5456161394-0-16"
+        },
+        "17": {
+            "rosel_id": true,
+            "shop_id": 762661,
+            "shop_name": "Изолента EG ПВХ 19 мм x 20 м красная",
+            "shop_order": 17,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-eg-pvkh-19-mm-x-20-m-krasnaya/p/762661/?from=block-123-17&qid=5456161394-0-17"
+        },
+        "18": {
+            "rosel_id": true,
+            "shop_id": 1624889,
+            "shop_name": "Изолента Рекорд ПВХ 15 мм x 20 м черная",
+            "shop_order": 18,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-rekord-pvkh-15-mm-x-20-m-chernaya/p/1624889/?from=block-123-18&qid=5456161394-0-18"
+        },
+        "19": {
+            "rosel_id": true,
+            "shop_id": 1569101,
+            "shop_name": "Изолента EG ПВХ 15 мм х 10 м (комплект из 6 цветов)",
+            "shop_order": 19,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-eg-pvkh-15-mm-kh-10-m-komplekt-iz-6-tsvetov-/p/1569101/?from=block-123-19&qid=5456161394-0-19"
+        },
+        "20": {
+            "rosel_id": true,
+            "shop_id": 762664,
+            "shop_name": "Изолента EG ПВХ 19 мм x 20 м желто-зеленая",
+            "shop_order": 20,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-eg-pvkh-19-mm-x-20-m-zhelto-zelenaya/p/762664/?from=block-123-20&qid=5456161394-0-20"
+        },
+        "21": {
+            "rosel_id": true,
+            "shop_id": 976244,
+            "shop_name": "Изолента Unibob ПВХ синяя 19 мм х 20 м синяя",
+            "shop_order": 21,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-unibob-pvkh-sinyaya-19-mm-kh-20-m-sinyaya/p/976244/?from=block-123-21&qid=5456161394-0-21"
+        },
+        "22": {
+            "rosel_id": true,
+            "shop_id": 858476,
+            "shop_name": "Изолента Эра ХБ 20 мм х 8 м черная",
+            "shop_order": 22,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-era-khb-20-mm-kh-8-m-chernaya/p/858476/?from=block-123-22&qid=5456161394-0-22"
+        },
+        "23": {
+            "rosel_id": true,
+            "shop_id": 858475,
+            "shop_name": "Изолента Эра Pro Супер Плюс ПВХ 19 мм х 20 м черная",
+            "shop_order": 23,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-era-pro-super-plyus-pvkh-19-mm-kh-20-m-chernaya/p/858475/?from=block-123-23&qid=5456161394-0-23"
+        },
+        "24": {
+            "rosel_id": true,
+            "shop_id": 1624871,
+            "shop_name": "Изолента Safeline ПВХ 15 мм x 20 м черная",
+            "shop_order": 24,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-safeline-pvkh-15-mm-x-20-m-chernaya/p/1624871/?from=block-123-24&qid=5456161394-0-24"
+        },
+        "25": {
+            "rosel_id": true,
+            "shop_id": 976242,
+            "shop_name": "Изолента Unibob ПВХ черная 19 мм х 25 м черная",
+            "shop_order": 25,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-unibob-pvkh-chernaya-19-mm-kh-25-m-chernaya/p/976242/?from=block-123-25&qid=5456161394-0-25"
+        },
+        "26": {
+            "rosel_id": true,
+            "shop_id": 976245,
+            "shop_name": "Изолента Unibob ПВХ белая 19 мм х 20 м белая",
+            "shop_order": 26,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-unibob-pvkh-belaya-19-mm-kh-20-m-belaya/p/976245/?from=block-123-26&qid=5456161394-0-26"
+        },
+        "27": {
+            "rosel_id": true,
+            "shop_id": 976250,
+            "shop_name": "Изолента Unibob ПВХ черная 15 мм х 10 м черная",
+            "shop_order": 27,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-unibob-pvkh-chernaya-15-mm-kh-10-m-chernaya/p/976250/?from=block-123-27&qid=5456161394-0-27"
+        },
+        "28": {
+            "rosel_id": true,
+            "shop_id": 1258081,
+            "shop_name": "Изолента EG ПВХ 15 мм х 20 м красная",
+            "shop_order": 28,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-eg-pvkh-15-mm-kh-20-m-krasnaya/p/1258081/?from=block-123-28&qid=5456161394-0-28"
+        },
+        "29": {
+            "rosel_id": true,
+            "shop_id": 1569104,
+            "shop_name": "Изолента EG ПВХ 15 мм х 20 м (комплект из 6 цветов)",
+            "shop_order": 29,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-eg-pvkh-15-mm-kh-20-m-komplekt-iz-6-tsvetov-/p/1569104/?from=block-123-29&qid=5456161394-0-29"
+        },
+        "30": {
+            "rosel_id": true,
+            "shop_id": 1624896,
+            "shop_name": "Изолента Рекорд ПВХ 19 мм x 20 м черная",
+            "shop_order": 30,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-rekord-pvkh-19-mm-x-20-m-chernaya/p/1624896/?from=block-123-30&qid=5456161394-0-30"
+        }
+    },
+    "комус-011": {
+        "1": {
+            "rosel_id": true,
+            "shop_id": 976248,
+            "shop_name": "Изолента Unibob ПВХ черная 15 мм х 20 м черная",
+            "shop_order": 1,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-unibob-pvkh-chernaya-15-mm-kh-20-m-chernaya/p/976248/?from=block-123-2&qid=2708796104-0-2"
+        },
+        "2": {
+            "rosel_id": true,
+            "shop_id": 976242,
+            "shop_name": "Изолента Unibob ПВХ черная 19 мм х 25 м черная",
+            "shop_order": 2,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-unibob-pvkh-chernaya-19-mm-kh-25-m-chernaya/p/976242/?from=block-123-3&qid=2708796104-0-3"
+        },
+        "3": {
+            "rosel_id": true,
+            "shop_id": 976250,
+            "shop_name": "Изолента Unibob ПВХ черная 15 мм х 10 м черная",
+            "shop_order": 3,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-unibob-pvkh-chernaya-15-mm-kh-10-m-chernaya/p/976250/?from=block-123-4&qid=2708796104-0-4"
+        },
+        "4": {
+            "rosel_id": true,
+            "shop_id": 1478880,
+            "shop_name": "Изолента Safeline ПВХ 19 мм x 20 м черная",
+            "shop_order": 4,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-safeline-pvkh-19-mm-x-20-m-chernaya/p/1478880/?from=block-123-5&qid=2708796104-0-5"
+        },
+        "5": {
+            "rosel_id": true,
+            "shop_id": 1624882,
+            "shop_name": "Изолента Рекорд ПВХ 15 мм x 10 м черная",
+            "shop_order": 5,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-rekord-pvkh-15-mm-x-10-m-chernaya/p/1624882/?from=block-123-6&qid=2708796104-0-6"
+        },
+        "6": {
+            "rosel_id": true,
+            "shop_id": 762648,
+            "shop_name": "Изолента EG ПВХ 19 мм x 20 м черная",
+            "shop_order": 6,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-eg-pvkh-19-mm-x-20-m-chernaya/p/762648/?from=block-123-7&qid=2708796104-0-7"
+        },
+        "7": {
+            "rosel_id": true,
+            "shop_id": 1624889,
+            "shop_name": "Изолента Рекорд ПВХ 15 мм x 20 м черная",
+            "shop_order": 7,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-rekord-pvkh-15-mm-x-20-m-chernaya/p/1624889/?from=block-123-8&qid=2708796104-0-8"
+        },
+        "8": {
+            "rosel_id": true,
+            "shop_id": 858476,
+            "shop_name": "Изолента Эра ХБ 20 мм х 8 м черная",
+            "shop_order": 8,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-era-khb-20-mm-kh-8-m-chernaya/p/858476/?from=block-123-9&qid=2708796104-0-9"
+        },
+        "9": {
+            "rosel_id": true,
+            "shop_id": 1624871,
+            "shop_name": "Изолента Safeline ПВХ 15 мм x 20 м черная",
+            "shop_order": 9,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-safeline-pvkh-15-mm-x-20-m-chernaya/p/1624871/?from=block-123-10&qid=2708796104-0-10"
+        },
+        "10": {
+            "rosel_id": true,
+            "shop_id": 858475,
+            "shop_name": "Изолента Эра Pro Супер Плюс ПВХ 19 мм х 20 м черная",
+            "shop_order": 10,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-era-pro-super-plyus-pvkh-19-mm-kh-20-m-chernaya/p/858475/?from=block-123-11&qid=2708796104-0-11"
+        },
+        "11": {
+            "rosel_id": true,
+            "shop_id": 1624896,
+            "shop_name": "Изолента Рекорд ПВХ 19 мм x 20 м черная",
+            "shop_order": 11,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-rekord-pvkh-19-mm-x-20-m-chernaya/p/1624896/?from=block-123-12&qid=2708796104-0-12"
+        },
+        "12": {
+            "rosel_id": true,
+            "shop_id": 1478876,
+            "shop_name": "Изолента Safeline ПВХ 15 мм x 10 м черная",
+            "shop_order": 12,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-safeline-pvkh-15-mm-x-10-m-chernaya/p/1478876/?from=block-123-13&qid=2708796104-0-13"
+        },
+        "13": {
+            "rosel_id": true,
+            "shop_id": 858477,
+            "shop_name": "Изолента Эра Pro 15 мм х 5 м черная",
+            "shop_order": 13,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-era-pro-15-mm-kh-5-m-chernaya/p/858477/?from=block-123-14&qid=2708796104-0-14"
+        },
+        "14": {
+            "rosel_id": true,
+            "shop_id": 1258084,
+            "shop_name": "Изолента ОНЛАЙТ ХБ 20 мм x 30 м черная",
+            "shop_order": 14,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-onlajt-khb-20-mm-x-30-m-chernaya/p/1258084/?from=block-123-15&qid=2708796104-0-15"
+        },
+        "15": {
+            "rosel_id": true,
+            "shop_id": 1258077,
+            "shop_name": "Изолента EG ПВХ 15 мм х 5 м черная",
+            "shop_order": 15,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-eg-pvkh-15-mm-kh-5-m-chernaya/p/1258077/?from=block-123-16&qid=2708796104-0-16"
+        },
+        "16": {
+            "rosel_id": true,
+            "shop_id": 1258083,
+            "shop_name": "Изолента ОНЛАЙТ ХБ 20 мм x 20 м черная",
+            "shop_order": 16,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-onlajt-khb-20-mm-x-20-m-chernaya/p/1258083/?from=block-123-17&qid=2708796104-0-17"
+        },
+        "17": {
+            "rosel_id": true,
+            "shop_id": 1478882,
+            "shop_name": "Изолента Safeline ПВХ Auto 15 мм x 5 м черная",
+            "shop_order": 17,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-safeline-pvkh-auto-15-mm-x-5-m-chernaya/p/1478882/?from=block-123-18&qid=2708796104-0-18"
+        },
+        "18": {
+            "rosel_id": true,
+            "shop_id": 1258086,
+            "shop_name": "Изолента ОНЛАЙТ ХБ 15 мм x 20 м черная",
+            "shop_order": 18,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-onlajt-khb-15-mm-x-20-m-chernaya/p/1258086/?from=block-123-19&qid=2708796104-0-19"
+        },
+        "19": {
+            "rosel_id": true,
+            "shop_id": 1258087,
+            "shop_name": "Изолента ОНЛАЙТ ХБ 15 мм x 30 м черная",
+            "shop_order": 19,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-onlajt-khb-15-mm-x-30-m-chernaya/p/1258087/?from=block-123-20&qid=2708796104-0-20"
+        },
+        "20": {
+            "rosel_id": true,
+            "shop_id": 1258085,
+            "shop_name": "Изолента ОНЛАЙТ ХБ 15 мм x 10 м черная",
+            "shop_order": 20,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-onlajt-khb-15-mm-x-10-m-chernaya/p/1258085/?from=block-123-21&qid=2708796104-0-21"
+        },
+        "21": {
+            "rosel_id": true,
+            "shop_id": 1258082,
+            "shop_name": "Изолента ОНЛАЙТ ХБ 20 мм x 10 м черная",
+            "shop_order": 21,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-onlajt-khb-20-mm-x-10-m-chernaya/p/1258082/?from=block-123-22&qid=2708796104-0-22"
+        },
+        "22": {
+            "rosel_id": true,
+            "shop_id": 1163637,
+            "shop_name": "Изолента Navigator ПВХ 19 мм x 20 м черная",
+            "shop_order": 22,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/elektrika-i-svet/elektromontazhnyj-instrument/izolenty/izolenta-navigator-pvkh-19-mm-x-20-m-chernaya/p/1163637/?from=block-123-23&qid=2708796104-0-23"
+        }
+    },
+    "комус-016": {
+        "1": {
+            "rosel_id": true,
+            "shop_id": 1483966,
+            "shop_name": "Клей универсальный Контакт супер-клей 20 г",
+            "shop_order": 1,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-universalnyj-kontakt-super-klej-20-g/p/1483966/?from=block-123-2&qid=7426550285-0-2"
+        },
+        "2": {
+            "rosel_id": true,
+            "shop_id": 561047,
+            "shop_name": "Клей ПВА Момент Столяр Super PVA универсальный 750 г",
+            "shop_order": 2,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-pva-moment-stolyar-super-pva-universalnyj-750-g/p/561047/?from=block-123-3&qid=7426550285-0-3"
+        }
+    },
+    "комус-017": {
+        "1": {
+            "rosel_id": true,
+            "shop_id": 466710,
+            "shop_name": "Клей секундный Секунда универсальный 3 г",
+            "shop_order": 1,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-sekundnyj-sekunda-universalnyj-3-g/p/466710/?from=block-123-1&qid=7368519427-0-1"
+        },
+        "2": {
+            "rosel_id": true,
+            "shop_id": 1274097,
+            "shop_name": "Клей секундный СЕКУНДА универсальный 1г",
+            "shop_order": 2,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-sekundnyj-sekunda-universalnyj-1g/p/1274097/?from=block-123-2&qid=7368519427-0-2"
+        },
+        "3": {
+            "rosel_id": true,
+            "shop_id": 652887,
+            "shop_name": "Клей секундный Cosmo универсальный цианоакрилатный 20 гр",
+            "shop_order": 3,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-sekundnyj-cosmo-universalnyj-tsianoakrilatnyj-20-gr/p/652887/?from=block-123-3&qid=7368519427-0-3"
+        },
+        "4": {
+            "rosel_id": true,
+            "shop_id": 551752,
+            "shop_name": "Клей секундный Монолит универсальный 3 г",
+            "shop_order": 4,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-sekundnyj-monolit-universalnyj-3-g/p/551752/?from=block-123-4&qid=7368519427-0-4"
+        },
+        "5": {
+            "rosel_id": true,
+            "shop_id": 26788,
+            "shop_name": "Клей секундный Супер Момент универсальный 3 г",
+            "shop_order": 5,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-sekundnyj-super-moment-universalnyj-3-g/p/26788/?from=block-123-5&qid=7368519427-0-5"
+        },
+        "6": {
+            "rosel_id": true,
+            "shop_id": 652886,
+            "shop_name": "Клей секундный Cosmo универсальный цианоакрилатный 50 гр",
+            "shop_order": 6,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-sekundnyj-cosmo-universalnyj-tsianoakrilatnyj-50-gr/p/652886/?from=block-123-6&qid=7368519427-0-6"
+        },
+        "7": {
+            "rosel_id": true,
+            "shop_id": 184522,
+            "shop_name": "Клей секундный KORES универсальный 1г 3 шт",
+            "shop_order": 7,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-sekundnyj-kores-universalnyj-1g-3-sht/p/184522/?from=block-123-7&qid=7368519427-0-7"
+        },
+        "8": {
+            "rosel_id": true,
+            "shop_id": 1667744,
+            "shop_name": "Клей спрей ABRO SA-300 универсальный 326 мл",
+            "shop_order": 8,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-sprej/klej-sprej-abro-sa-300-universalnyj-326-ml/p/1667744/?from=block-123-8&qid=7368519427-0-8"
+        },
+        "9": {
+            "rosel_id": true,
+            "shop_id": 41666,
+            "shop_name": "Клей контактный Момент Кристалл универсальный прозрачный 30 мл",
+            "shop_order": 9,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-kontaktnyj-moment-kristall-universalnyj-prozrachnyj-30-ml/p/41666/?from=block-123-9&qid=7368519427-0-9"
+        },
+        "10": {
+            "rosel_id": true,
+            "shop_id": 466713,
+            "shop_name": "Клей секундный Секунда универсальный кристально-прозрачный 30 мл",
+            "shop_order": 10,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-sekundnyj-sekunda-universalnyj-kristalno-prozrachnyj-30-ml/p/466713/?from=block-123-10&qid=7368519427-0-10"
+        },
+        "11": {
+            "rosel_id": true,
+            "shop_id": 34013,
+            "shop_name": "Клей контактный Момент-1 Классик универсальный водостойкий 30 мл",
+            "shop_order": 11,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-kontaktnyj-moment-1-klassik-universalnyj-vodostojkij-30-ml/p/34013/?from=block-123-11&qid=7368519427-0-11"
+        },
+        "12": {
+            "rosel_id": true,
+            "shop_id": 1483966,
+            "shop_name": "Клей универсальный Контакт супер-клей 20 г",
+            "shop_order": 12,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-universalnyj-kontakt-super-klej-20-g/p/1483966/?from=block-123-12&qid=7368519427-0-12"
+        },
+        "13": {
+            "rosel_id": true,
+            "shop_id": 551756,
+            "shop_name": "Клей эпоксидный Секунда универсальный прозрачный 6 мл",
+            "shop_order": 13,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-epoksidnyj-sekunda-universalnyj-prozrachnyj-6-ml/p/551756/?from=block-123-13&qid=7368519427-0-13"
+        },
+        "14": {
+            "rosel_id": true,
+            "shop_id": 480963,
+            "shop_name": "Клей ПВА Момент Столяр универсальный белый 250 г",
+            "shop_order": 14,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-pva-moment-stolyar-universalnyj-belyj-250-g/p/480963/?from=block-123-14&qid=7368519427-0-14"
+        },
+        "15": {
+            "rosel_id": true,
+            "shop_id": 1296319,
+            "shop_name": "Клей универсальный UHU KRAFT POWER контактный 125 г",
+            "shop_order": 15,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-universalnyj-uhu-kraft-power-kontaktnyj-125-g/p/1296319/?from=block-123-15&qid=7368519427-0-15"
+        },
+        "16": {
+            "rosel_id": true,
+            "shop_id": 561046,
+            "shop_name": "Клей ПВА Экспресс Момент Столяр универсальный 750 г",
+            "shop_order": 16,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-pva-ekspress-moment-stolyar-universalnyj-750-g/p/561046/?from=block-123-16&qid=7368519427-0-16"
+        },
+        "17": {
+            "rosel_id": true,
+            "shop_id": 1274098,
+            "shop_name": "Клей универсальный Секунда 88 особопрочный водостойкий 30 мл",
+            "shop_order": 17,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-universalnyj-sekunda-88-osoboprochnyj-vodostojkij-30-ml/p/1274098/?from=block-123-17&qid=7368519427-0-17"
+        },
+        "18": {
+            "rosel_id": true,
+            "shop_id": 1483964,
+            "shop_name": "Клей универсальный Organide 507 3 г",
+            "shop_order": 18,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-universalnyj-organide-507-3-g/p/1483964/?from=block-123-18&qid=7368519427-0-18"
+        },
+        "19": {
+            "rosel_id": true,
+            "shop_id": 561047,
+            "shop_name": "Клей ПВА Момент Столяр Super PVA универсальный 750 г",
+            "shop_order": 19,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-pva-moment-stolyar-super-pva-universalnyj-750-g/p/561047/?from=block-123-19&qid=7368519427-0-19"
+        },
+        "20": {
+            "rosel_id": true,
+            "shop_id": 1535195,
+            "shop_name": "Клей аэрозольный Re Marco 400 мл",
+            "shop_order": 20,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-spetsialnyj/klej-aerozolnyj-re-marco-400-ml/p/1535195/?from=block-123-20&qid=7368519427-0-20"
+        },
+        "21": {
+            "rosel_id": true,
+            "shop_id": 1302579,
+            "shop_name": "Клей контактный UHU Twist&Glue универсальный с аппликатором 35 мл",
+            "shop_order": 21,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-kontaktnyj-uhu-twist-glue-universalnyj-s-applikatorom-35-ml/p/1302579/?from=block-123-21&qid=7368519427-0-21"
+        },
+        "22": {
+            "rosel_id": true,
+            "shop_id": 466714,
+            "shop_name": "Клей секундный Секунда универсальный прозрачный 30 мл",
+            "shop_order": 22,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-sekundnyj-sekunda-universalnyj-prozrachnyj-30-ml/p/466714/?from=block-123-22&qid=7368519427-0-22"
+        },
+        "23": {
+            "rosel_id": true,
+            "shop_id": 1274099,
+            "shop_name": "Клей холодная сварка Секунда универсальный прозрачный 75 мл",
+            "shop_order": 23,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-kholodnaya-svarka-sekunda-universalnyj-prozrachnyj-75-ml/p/1274099/?from=block-123-23&qid=7368519427-0-23"
+        },
+        "24": {
+            "rosel_id": true,
+            "shop_id": 1296381,
+            "shop_name": "Клей эпоксидный UHU PLUS ENDFEST 300 универсальный 2x15 мл",
+            "shop_order": 24,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-spetsialnyj/klej-epoksidnyj-uhu-plus-endfest-300-universalnyj-2x15-ml/p/1296381/?from=block-123-24&qid=7368519427-0-24"
+        },
+        "25": {
+            "rosel_id": true,
+            "shop_id": 897298,
+            "shop_name": "Клей секундный Секунда универсальный сверхпрочное склеивание прозрачный 30 мл",
+            "shop_order": 25,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-sekundnyj-sekunda-universalnyj-sverkhprochnoe-skleivanie-prozrachnyj-30-ml/p/897298/?from=block-123-25&qid=7368519427-0-25"
+        },
+        "26": {
+            "rosel_id": true,
+            "shop_id": 1601126,
+            "shop_name": "Клей секундный Сила SSBL12-3 универсальный 3 г",
+            "shop_order": 26,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-sekundnyj-sila-ssbl12-3-universalnyj-3-g/p/1601126/?from=block-123-26&qid=7368519427-0-26"
+        },
+        "27": {
+            "rosel_id": true,
+            "shop_id": 1601125,
+            "shop_name": "Клей секундный Сила 505-3 универсальный 3 г",
+            "shop_order": 27,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-sekundnyj-sila-505-3-universalnyj-3-g/p/1601125/?from=block-123-27&qid=7368519427-0-27"
+        },
+        "28": {
+            "rosel_id": true,
+            "shop_id": 1601129,
+            "shop_name": "Клей эпоксидный Сила SEBL1-6 универсальный 6 мл",
+            "shop_order": 28,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-epoksidnyj-sila-sebl1-6-universalnyj-6-ml/p/1601129/?from=block-123-28&qid=7368519427-0-28"
+        },
+        "29": {
+            "rosel_id": true,
+            "shop_id": 551753,
+            "shop_name": "Клей-гель секундный Монолит универсальный 3 г",
+            "shop_order": 29,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-gel-sekundnyj-monolit-universalnyj-3-g/p/551753/?from=block-123-29&qid=7368519427-0-29"
+        },
+        "30": {
+            "rosel_id": true,
+            "shop_id": 115641,
+            "shop_name": "Клей-гель секундный Kores универсальный 3 г",
+            "shop_order": 30,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-gel-sekundnyj-kores-universalnyj-3-g/p/115641/?from=block-123-30&qid=7368519427-0-30"
+        }
+    },
+    "комус-018": {
+        "1": {
+            "rosel_id": true,
+            "shop_id": 115641,
+            "shop_name": "Клей-гель секундный Kores универсальный 3 г",
+            "shop_order": 1,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-gel-sekundnyj-kores-universalnyj-3-g/p/115641/?from=block-123-2&qid=0639207913-0-2"
+        },
+        "2": {
+            "rosel_id": true,
+            "shop_id": 1601127,
+            "shop_name": "Клей-гель секундный Сила SSGBL12-3 универсальный 3 г",
+            "shop_order": 2,
+            "shop_url": "https://www.komus.ru/katalog/katalog-instrumentov/stroitelnaya-khimiya/klej-germetik-pena-montazhnaya/klej-universalnyj/klej-gel-sekundnyj-sila-ssgbl12-3-universalnyj-3-g/p/1601127/?from=block-123-3&qid=0639207913-0-3"
+        },
+        "3": {
+            "rosel_id": true,
+            "shop_id": 1118238,
+            "shop_name": "Гель для удаления клейкой ленты и клея тиксотропный Attache Selection 210 мл",
+            "shop_order": 3,
+            "shop_url": "https://www.komus.ru/katalog/khozyajstvennye-tovary/spetsializirovannye-chistyashhie-sredstva/chistyashhie-sredstva-dlya-orgtekhniki-i-elektroniki/sredstva-dlya-chistki-orgtekhniki/gel-dlya-udaleniya-klejkoj-lenty-i-kleya-tiksotropnyj-attache-selection-210-ml/p/1118238/?from=block-123-4&qid=0639207913-0-4"
+        }
+    }
+}
